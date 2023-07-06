@@ -10,19 +10,23 @@ Explora en este contenido los conceptos fundamentales de la extensibilidad en Vi
 
 ## Instrucciones
 
-Este repositorio tiene ramas (branches) para cada uno de los vídeos del curso. Puedes usar el menú emergente de la rama en GitHub para cambiar a una rama específica y echar un vistazo al curso en esa etapa, o puedes añadir `/tree/nombre_de_la_rama` a la URL para ir a la rama a la que quieres acceder.
-
-## Ramas
-
-Las ramas están estructuradas para corresponder a los vídeos del curso. La convención de nomenclatura es Capítulo#_Vídeo#. Por ejemplo, la rama denominada `02_03` corresponde al segundo capítulo y al tercer vídeo de ese capítulo. Algunas ramas tendrán un estado inicial y otro final. Están marcadas con las letras i («inicio») y f («fin»). La branch i tiene el mismo código que al principio del vídeo. La branch f tiene el mismo código que al final del vídeo. La rama master tiene el estado final del código que aparece en el curso.
+Este repositorio contiene carpetas que corresponden a los proyectos que se construyen durante el curso.
 
 ## Instalación
 
 1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-   - [software]
+   - Extensiones para Visual Studio
+       - Carga de trabajo de aplicaciones de escritorio
+       - Extensión VisualStudio.Extensibility Project System para Visual Studio
+   - Extensiones para Visual Studio Code
+       - Node.js
+       - npm
+       - Yeoman
+       - Generador de extensiones de Visual Studio Code (generator-code)
+       - Herramienta vsce
+   - Git
 
 2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. [Instrucciones específicas del curso].
 
 ### Docente
 
