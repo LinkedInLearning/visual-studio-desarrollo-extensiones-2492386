@@ -1,0 +1,20 @@
+{
+  "name": "lil-snippet",
+  "displayName": "lil-snippet",
+  "description": "Visual Studio: Desarrollo de extensiones",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "csharp",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}

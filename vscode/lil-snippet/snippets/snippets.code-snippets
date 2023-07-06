@@ -1,0 +1,10 @@
+{
+    "C# record":{
+        "prefix": "record",
+        "body": [
+            "public record ${1:RecordName}(${2:Properties})"
+        ],
+        "description": "Crea un nuevo record de C#"
+    }
+
+}

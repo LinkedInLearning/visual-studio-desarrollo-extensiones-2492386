@@ -1,0 +1,45 @@
+{
+  "name": "lil-extensiones",
+  "displayName": "lil-extensiones",
+  "description": "Visual Studio: Desarrollo de extensiones",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "publisher": "rdiazconcha",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rdiazconcha"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [{
+      "command": "azure-status",
+      "title": "Mostrar estado de Azure"
+    },
+    {
+      "command": "insert-guid",
+      "title": "Insertar GUID"
+    }]
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "node ./test/runTest.js"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.79.0",
+    "@types/glob": "^8.1.0",
+    "@types/mocha": "^10.0.1",
+    "@types/node": "20.2.5",
+    "eslint": "^8.41.0",
+    "glob": "^8.1.0",
+    "mocha": "^10.2.0",
+    "typescript": "^5.1.3",
+    "@vscode/test-electron": "^2.3.2"
+  }
+}
