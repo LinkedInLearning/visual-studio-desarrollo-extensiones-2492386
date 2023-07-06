@@ -16,9 +16,11 @@ Este repositorio contiene carpetas que corresponden a los proyectos que se const
 
 1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
    - Extensiones para Visual Studio
+       - Visual Studio 17.7 o superior
        - Carga de trabajo de aplicaciones de escritorio
-       - Extensión VisualStudio.Extensibility Project System para Visual Studio
+       - Extensión VisualStudio.Extensibility Project System
    - Extensiones para Visual Studio Code
+       - Visual Studio Code
        - Node.js
        - npm
        - Yeoman
