@@ -37,7 +37,7 @@ Este repositorio contiene carpetas que corresponden a los proyectos que se const
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/rodrigo-diaz-concha).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/visual-studio-desarrollo-de-extensiones
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQFWZ8VbvRF37g/learning-public-crop_675_1200/0/1691746098091?e=2147483647&v=beta&t=VTmXROA8RNAuNm_52WWu7fOhPrrXCOpnbYnUk3F-M1U
 
 [1]: # (End of ES-Instruction ###############################################################################################)
